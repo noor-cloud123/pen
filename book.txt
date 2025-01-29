@@ -1,1 +1,2 @@
 hello! iam learning github
+im using cmd command
